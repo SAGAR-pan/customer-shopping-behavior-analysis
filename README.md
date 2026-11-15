@@ -22,7 +22,6 @@ To add preview images to this README, place screenshots in `assets/` (for exampl
 ![Customer Behavior Dashboard](assets/Dashboard%20Overview.png)
 
 ![Customer Insights Dashboard](assets/Dashboard%20Insights.png)
-
 ---
 
 ## Business Problem
