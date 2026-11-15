@@ -19,10 +19,9 @@ Open `powerbi/Customer_Intelligence_Analytics.pbix` in [Power BI Desktop](https:
 
 To add preview images to this README, place screenshots in `assets/` (for example, `dashboard_overview.png` and `dashboard_insights.png`) and uncomment/update the image links below:
 
-<!--
-![Customer Behavior Dashboard](assets/dashboard_overview.png)
-![Customer Insights Dashboard](assets/dashboard_insights.png)
--->
+![Customer Behavior Dashboard](assets/Dashboard%20Overview.png)
+
+![Customer Insights Dashboard](assets/Dashboard%20Insights.png)
 
 ---
 
